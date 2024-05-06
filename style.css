@@ -1,0 +1,42 @@
+body{
+    background-color: slategray;
+  
+}
+.gras{
+    font-weight: bold;
+}
+a{
+    color: red;
+}
+h2{
+    color: red;
+}
+h3{
+    color: white;
+}
+#one{
+    display: block;
+    background-color: #221313;
+    border: 1px solid #221313 ;
+    padding: 1px 4px 1px 4px;
+    margin: 5px;
+}
+#one_one{
+    border: 1px solid slategray ;
+    padding: 1px 4px 1px 4px;
+    margin: 5px;
+}
+#one_two{
+    background-color: rgb(131, 134, 137);
+    border: 2px solid rgb(131, 134, 137);
+    padding: 1px 4px 1px 4px;
+    margin: 5px;
+}
+#img{
+    border: 2px solid rgb(212, 23, 23);
+    padding: 1px 1px 1px 1px;
+    margin: 200px;
+}
+
+
+
